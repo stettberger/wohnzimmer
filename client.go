@@ -1,4 +1,4 @@
-package wohnzimmer // import "dokucode.de/wohnzimmer"
+package wohnzimmer // import "github.com/stettberger/wohnzimmer"
 
 import (
 	"fmt"
