@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"dokucode.de/wohnzimmer"
+	"github.com/stettberger/wohnzimmer"
 	"layeh.com/gumble/gumble"
 	_ "layeh.com/gumble/opus"
 )
